@@ -1,0 +1,26 @@
+{
+    "AdsType":0, 
+    "Google_Ads":{
+        "Google_InterstitialAds":"ca-app-pub-3940256099942544/1033173712",
+        "Google_BannerAds":"ca-app-pub-3940256099942544/6300978111",
+        "Google_NativeAds":"ca-app-pub-3940256099942544/2247696110",
+        "Google_AppOpenAds":"ca-app-pub-3940256099942544/3419835294",
+        "Google_RewordVideoAds":"",
+        "Google_AppID":"ca-app-pub-3940256099942544~3347511713"
+    },
+    
+    
+    "Applovin_Ads":{
+        "Applovin_InterstitialAds":"43cc402c227b0f79",
+        "Applovin_BannerAds":"139499af9c9c3e67",
+        "Applovin_NativeSmallAds":"9626854e40facc85",
+        "Applovin_NativeBigAds":"e8f7755cdbb1a011"
+    },
+    
+    "Facebook_Ads":{
+        "Facebook_InterstitialAds":"",
+        "Facebook_BannerAds":"",
+        "Facebook_NativeAds":""
+    }
+    
+}
